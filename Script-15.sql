@@ -1,0 +1,1 @@
+select * from NEOE.NEOE.FI_ASSET fa ;
